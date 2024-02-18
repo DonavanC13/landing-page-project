@@ -5,3 +5,6 @@ body {background-color: #1f2937;}
 }
 a{font: size 18px;color: #e5e7eb ; font-family: Arial, Helvetica, sans-serif; margin-right: 40px;;}
 li {list-style: none;}
+
+.hero-main-text{color: #e5e7eb;font-family: Arial, Helvetica, sans-serif;font-size: 48px;}
+.hero-secondary-text{color: #e5e7eb;font-family: Arial, Helvetica, sans-serif;font-size: 18px}
