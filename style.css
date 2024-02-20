@@ -28,8 +28,18 @@ li {list-style: none;}
 
     .lamball{display: flex;
         flex-direction: column;
-        justify-content: flex-start;}
+        justify-content: flex-start; font-family: Arial, Helvetica, sans-serif;}
 
         .tanzee{display: flex;
             flex-direction: column;
-            justify-content: flex-start;}
+            justify-content: flex-start; font-family: Arial, Helvetica, sans-serif;}
+            .quote{display: flex;
+                justify-content: space-between;
+                align-content: center;
+                padding: 60px 200px 80px 200px;}
+                .quote-content {display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    margin-right: 10px;font-family: Arial, Helvetica, sans-serif;}
+                    .quote-text{font-family: Arial, Helvetica, sans-serif;}
+                    .p{font-family: Arial, Helvetica, sans-serif;}
